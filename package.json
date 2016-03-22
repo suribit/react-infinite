@@ -86,8 +86,8 @@
     "object-assign": "4.0.1"
   },
   "peerDependencies": {
-    "react": "15.0.0-rc.1",
-    "react-dom": "15.0.0-rc.1"
+    "react": "^0.14.0 || ^15.0.0-rc.1",
+    "react-dom": "^0.14.0 || ^15.0.0-rc.1"
   },
   "browserify": {
     "transform": [
